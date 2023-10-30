@@ -21,7 +21,7 @@
 title: Impromptu
 email: lundrm+impromptu@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-   A blog mostly about the practicalities and realities of working with AI 
+   A blog about AI without the hyperbole, in plain english.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
