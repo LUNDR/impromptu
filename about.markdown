@@ -4,15 +4,12 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+This blog is a respository for my thinking on both the state of AI and the practicalities of turning excitement about new technology into tangible, successful products.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+My day job is advising clients on shaping and implementing AI use cases. I specialise in Machine Learning Operations (MLOps). MLOps is mostly concerned with designing and building the software and infrastructure to deploy machine learning models built by data scientists so they can actually be used by business people or other applications. 
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+I initially trained and worked as a macroeconomist and I retain an interest in global economics, particularly around the intersection between technology and economic development.
+
+I am proud to work for Deloitte AG (Switzerland), however the content of this blog reflects my own views and not necessarily those of my employer.
 
 
-[jekyll-organization]: https://github.com/jekyll

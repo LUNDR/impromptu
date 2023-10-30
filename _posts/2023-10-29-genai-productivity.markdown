@@ -132,6 +132,8 @@ However, policy makers should not be impatient for results. Interventions to pro
 
 Businesses should also be patient. They will need to be committed “all in” to reap the rewards of Generative AI, thinking of investment in Generative AI as a whole business transformation project and not just something to tinker with.
 
+**References**
+
 [^1]: Bresnahan, T.F. and Trajtenberg, M., 1995. General purpose technologies ‘Engines of growth’?. Journal of econometrics, 65(1), pp.83-108.
 [^2]: Brynjolfsson, E., Li, D. and Raymond, L.R., 2023. Generative AI at work (No. w31161). National Bureau of Economic Research.
 [^3]: Peng, S., Kalliamvakou, E., Cihon, P. and Demirer, M., 2023. The impact of ai on developer productivity: Evidence from github copilot. arXiv preprint arXiv:2302.06590.
