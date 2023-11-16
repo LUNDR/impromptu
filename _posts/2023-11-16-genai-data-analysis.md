@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Can Gen AI really do data analysis"
+title:  "Can Gen AI really do data analysis?"
 date:   2023-11-16 10:08:26 +0100
 categories: GenAI-technology
 ---
