@@ -1,4 +1,10 @@
-# Can GenAI really do data analysis?
+---
+layout: post
+title:  "Can Gen AI really do data analysis"
+date:   2023-11-16 10:08:26 +0100
+categories: GenAI-technology
+---
+
 
 Generative AI offers the possibility of analyzing and visualizing data by describing what you want to do in natural language, without the need for coding, manipulation of spreadsheets, or specialist tools.  Not only would such a capability make analysis much faster within an organization, but it would enable a much wider set of people within an organization, without training in technical analytics tools, to conduct analysis. Data Analysts and Data Scientists Beware!
 
