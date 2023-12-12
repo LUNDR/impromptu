@@ -6,9 +6,15 @@ categories: GenAI-technology
 ---
 If you are planning to use or build applications powered by Generative AI it's worth taking a moment to think about data security. By that, I mean considering whether you are confident that your data or your users’ data will not end up being used or exposed to third parties who shouldn’t be seeing it. Failure to protect confidential data can result in personal embarrassment,  brand damage, loss of IP, and, depending on the case, a hefty fine from the regulator.
 
-Data security is not a new concern, but the nature of Generative AI creates some distinct risks and challenges. How seriously you need to take these risks depends on the status of the data you want to pass through any Generative AI model and on your appetite for risk: If you are just using publicly available data then you may not need to worry about what’s happening to your data. However, if your data is commercially sensitive or contains personal details about individuals (Personally Identifiable Information - PII), then you need to take these risks seriously.
+Data security is not a new concern, but the nature of Generative AI creates some distinct risks and challenges. How seriously you need to take these risks depends on the status of the data you want to pass through any Generative AI model and on your appetite for risk: If you are just using publicly available data then you may not need to worry about what’s happening to your data. However, if your data is commercially sensitive or contains personal details about individuals (Personally Identifiable Information - PII), then you need to take these risks seriously (and regulation may determine how those risks need to be addressed).
 
-**Data security risks around Gen AI you should be thinking about**
+Protecting data is not a black and white choice. You will mostly be trading-off increased data security with increased complexity and cost. Different trade-offs will be appropriate for different use cases. What is important is that you consciously choose where on the trade-off curve you want to be, rather than simply ignoring the issue.
+
+![Title](/impromptu/assets/data_security_vs_cost_complexity_tradeoff.png)
+
+
+
+**Data security risks you should be thinking about**
 
 The most common way of working with Generative AI models is via API calls to a model provider: A user inputs a question or request in the form of a prompt into a web-based interface (such as ChatGPT), which may include different types of data as part of the context. The content of that prompt is sent over the internet to a third-party model provider (such as Open AI).  That third party passes the data to the model and a result is sent back, over the internet, to the application where the user inputs the data. 
 
