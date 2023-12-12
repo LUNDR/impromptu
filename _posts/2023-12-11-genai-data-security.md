@@ -14,9 +14,9 @@ Protecting data is not a black and white choice. You will mostly be trading-off 
 
 
 
-**Data security risks you should be thinking about**
+#### **Data security risks you should be thinking about**
 
-The most common way of working with Generative AI models is via API calls to a model provider: A user inputs a question or request in the form of a prompt into a web-based interface (such as ChatGPT), which may include different types of data as part of the context. The content of that prompt is sent over the internet to a third-party model provider (such as Open AI).  That third party passes the data to the model and a result is sent back, over the internet, to the application where the user inputs the data. 
+The most common, and simplest, way of working with Generative AI models is via API calls to a model provider: A user inputs a question or request in the form of a prompt into a web-based interface (such as ChatGPT), which may include different types of data as part of the context. The content of that prompt is sent over the internet to a third-party model provider (such as Open AI).  That third party passes the data to the model and a result is sent back, over the internet, to the application where the user inputs the data. 
 
 From a data security point of view, the biggest concern with this way of using Generative AI models is that once data has been inputted into the interface (or the API request is sent) it leaves your control. Once out of your control data could fall into the wrong hands or be seen by someone who shouldn’t be seeing it. Particular concerns with Generative AI include:
 
@@ -30,7 +30,7 @@ From a data security point of view, the biggest concern with this way of using G
 
 5. **Data is captured while crossing the internet to the third party provider.** There are more or less secure ways of passing data over the internet. It is possible for someone, with the right software, to capture the data you enter into a web-page. That said, this will probably not be the biggest source of concern for most organisations using Gen AI models. Today the use of  encryption of data in transit via the use of HTTPS (rather than HTTP) connections is widespread and major foundation model providers all provide an HTTPS connection. More of a concern should be third party applications which sit between any user and the model provider, which are not properly secure. 
 
-**A more secure route to working with Gen AI models?**
+#### **A more secure route to working with Gen AI models?**
 
 Some data privacy risks can be mitigated by working with Gen AI models through existing cloud providers. Rather than users sending data directly to Open AI, models can be accessed via a cloud provider such as Microsoft Azure (Azure Open AI ML) or Google Cloud.
 
