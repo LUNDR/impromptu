@@ -4,7 +4,7 @@ title:  "Gen AI & data security: risks you should consider"
 date:   2023-12-11 10:08:26 +0100
 categories: GenAI-technology
 ---
-f you are planning to use or build applications powered by Generative AI it's worth taking a moment to think about data security. By that, I mean considering whether you are confident that your data or your users’ data will not end up being used or exposed to third parties who shouldn’t be seeing it. Failure to protect confidential data can result in personal embarrassment,  brand damage, loss of IP, and, depending on the case, a hefty fine from the regulator.
+If you are planning to use or build applications powered by Generative AI it's worth taking a moment to think about data security. By that, I mean considering whether you are confident that your data or your users’ data will not end up being used or exposed to third parties who shouldn’t be seeing it. Failure to protect confidential data can result in personal embarrassment,  brand damage, loss of IP, and, depending on the case, a hefty fine from the regulator.
 
 Data security is not a new concern, but the nature of Generative AI creates some distinct risks and challenges. How seriously you need to take these risks depends on the status of the data you want to pass through any Generative AI model and on your appetite for risk: If you are just using publicly available data then you may not need to worry about what’s happening to your data. However, if your data is commercially sensitive or contains personal details about individuals (Personally Identifiable Information - PII), then you need to take these risks seriously.
 
